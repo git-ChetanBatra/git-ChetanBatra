@@ -1,4 +1,4 @@
-
+![logo](https://github.com/git-ChetanBatra/git-ChetanBatra/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Chetan Batra</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
